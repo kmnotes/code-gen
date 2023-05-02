@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kmnotes/code-gen/static/css/main.48ecb84c.css",
+    "main.js": "/kmnotes/code-gen/static/js/main.81f15c83.js",
+    "index.html": "/kmnotes/code-gen/index.html",
+    "main.48ecb84c.css.map": "/kmnotes/code-gen/static/css/main.48ecb84c.css.map",
+    "main.81f15c83.js.map": "/kmnotes/code-gen/static/js/main.81f15c83.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48ecb84c.css",
+    "static/js/main.81f15c83.js"
+  ]
+}
