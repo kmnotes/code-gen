@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/kmnotes/code-gen/static/css/main.1cac39de.css",
-    "main.js": "/kmnotes/code-gen/static/js/main.113e6995.js",
-    "index.html": "/kmnotes/code-gen/index.html",
-    "main.1cac39de.css.map": "/kmnotes/code-gen/static/css/main.1cac39de.css.map",
-    "main.113e6995.js.map": "/kmnotes/code-gen/static/js/main.113e6995.js.map"
+    "main.css": "/static/css/main.1cac39de.css",
+    "main.js": "/static/js/main.81f15c83.js",
+    "index.html": "/index.html",
+    "main.1cac39de.css.map": "/static/css/main.1cac39de.css.map",
+    "main.81f15c83.js.map": "/static/js/main.81f15c83.js.map"
   },
   "entrypoints": [
     "static/css/main.1cac39de.css",
-    "static/js/main.113e6995.js"
+    "static/js/main.81f15c83.js"
   ]
 }
